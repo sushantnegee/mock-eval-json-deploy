@@ -1,0 +1,15 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "mock evaluation 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "keywords": [],
+  "author": "sushant",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
